@@ -114,8 +114,8 @@ const Footer = () => {
                                 <p>Awesome grocery store website template</p>
                                 <br />
 
-                                <p><LocationOnOutlinedIcon /> <strong>Address</strong>: 5171 W Campbell Ave undefined Kent, Utah 53127 United States</p>
-                                <p><HeadphonesOutlinedIcon /> <strong>Call Us:</strong> (+91) - 540-025-124553 </p>
+                                <p><LocationOnOutlinedIcon /> <strong>Address</strong>: Bhubaneswar,Odisha,India</p>
+                                <p><HeadphonesOutlinedIcon /> <strong>Call Us:</strong> (+91) 8338956216 </p>
                                 <p><EmailOutlinedIcon /> <strong>Email:</strong> sale@Nest.com</p>
                                 <p><WatchLaterOutlinedIcon /> <strong>Hours:</strong> 10:00 - 18:00, Mon - Sat</p>
 
